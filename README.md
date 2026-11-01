@@ -1,42 +1,53 @@
-# 🏎️ Sistema de Banco de Dados — Fórmula 1
+# 🏎️ Banco de Dados — Fórmula 1
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
-Este projeto acadêmico tem como objetivo desenvolver um banco de dados para representar informações relacionadas ao universo da Fórmula 1.
+Este projeto foi desenvolvido como atividade acadêmica da disciplina de Banco de Dados, no curso de Análise e Desenvolvimento de Sistemas (ADS).
 
-O banco foi criado utilizando MySQL, com tabelas relacionadas a países, equipes, pilotos, corridas e participantes.
+O objetivo é criar um banco de dados relacional para organizar informações relacionadas ao universo da Fórmula 1, utilizando SQL e MySQL Workbench.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Criar um banco de dados relacional.
-- Implementar tabelas e seus relacionamentos.
+- Criar tabelas e seus relacionamentos.
 - Utilizar chaves primárias (PRIMARY KEY).
 - Utilizar chaves estrangeiras (FOREIGN KEY).
-- Praticar comandos SQL.
+- Inserir, atualizar e consultar dados.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - MySQL
-- MySQL Workbench
 - SQL
+- MySQL Workbench
 
-## 📂 Arquivo do projeto
+## Estrutura do banco de dados
 
-- `trabalho-formula1.sql` — script SQL para criação e implementação do banco de dados.
+O banco de dados contém cinco tabelas:
 
-## ▶️ Como executar
+- Países
+- Equipes
+- Pilotos
+- Corridas
+- Participantes
+
+## Arquivo do projeto
+
+`trabalho-formula1.sql` — script SQL para criação e implementação do banco de dados.
+
+## Como executar
 
 1. Instale o MySQL Server e o MySQL Workbench.
 2. Abra o MySQL Workbench.
 3. Abra o arquivo `trabalho-formula1.sql`.
-4. Execute o script no banco de dados.
-5. Confira as tabelas criadas.
+4. Conecte-se ao servidor MySQL.
+5. Execute o script SQL.
+6. Confira as tabelas criadas.
 
-## 📚 Aprendizados
+## Aprendizados
 
-Com este projeto, pratiquei conceitos de modelagem de dados, criação de tabelas, definição de chaves primárias e estrangeiras e utilização da linguagem SQL.
+Com este projeto, pratiquei conceitos de modelagem de dados, criação de tabelas, definição de chaves primárias e estrangeiras e utilização de comandos SQL.
 
-## 👩‍💻 Desenvolvido por
+## Desenvolvido por
 
 **Leticia Moura**
 
